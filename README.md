@@ -269,6 +269,9 @@ Trimitem modificările în repozitoriu și ne asiguram că testele trec cu succe
 
 ![image](https://github.com/user-attachments/assets/1666e40f-80f6-4554-80a0-acdd99745bf9)
 
+![image](https://github.com/user-attachments/assets/5c70c5d1-fc24-4d36-a903-8d00e4825c8c)
+
+
 # Răspunsuri la întrebări:
 
 # Ce este integrarea continuă?
