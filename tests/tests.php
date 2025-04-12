@@ -131,7 +131,7 @@ function testDbFetch() {
 
 // test 8: test page rendering
 function testPageRender() {
-    $page = new Page(__DIR__ . '/../site/templates/index.tpl');
+   $page = new Page('/var/www/html/templates/index.tpl');
     
     $data = [
         "title" => "Test Title",
